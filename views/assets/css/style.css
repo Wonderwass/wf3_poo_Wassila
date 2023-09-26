@@ -1,0 +1,6 @@
+/* CSS dans votre fichier style.css */
+.match-pending {
+    background-color: #eee; /* Grise le fond de la ligne */
+    color: #999; /* Change la couleur du texte */
+    font-style: italic; /* Met en italique le texte */
+}
